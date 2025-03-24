@@ -259,7 +259,7 @@ const PaymentSection = memo(() => {
           }`}
           variants={itemVariants}
         >
-          Các phương thức thanh toán được chấp nhận để giao dịch với Đinh Duy Vinh
+          Các phương thức thanh toán được chấp nhận để giao dịch với Vuong Honglin
         </motion.p>
 
         <motion.div
