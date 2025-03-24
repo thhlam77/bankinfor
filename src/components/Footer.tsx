@@ -278,7 +278,7 @@ const Footer: React.FC = () => {
             >
               <FaHeart />
             </motion.span>
-            by Vuong Hong Lin
+            by Đinh Duy Vinh, Lê Vĩnh Khang
           </motion.p>
         </motion.div>
 
